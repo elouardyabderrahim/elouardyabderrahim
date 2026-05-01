@@ -148,27 +148,9 @@ class AbderrahimElouardy:
 
 ---
 
-## 🗺️ Career Journey
+## 🎯 Goal
 
-```
-2022–2023 ──● Full Stack & Big Data Apprenticeship
-              HTML · CSS · JS · React · Hadoop · Spark · Python
-
-   2024    ──● Data Engineer
-              ETL pipelines · Talend · PySpark · Databricks
-              + Started MSc AI Engineering & Data Science
-
-2024–2025  ──● Backend Developer (Freelance)
-              FastAPI · REST APIs · PostgreSQL · AI integrations
-              Performance-critical microservices
-
-   2025    ──◉ Technical Training Lead & Database Developer  ← NOW
-              Curriculum design · Data & AI programs
-              High-performance DB architecture · Query optimization
-
-   2026    ──◌ AI Architect  [upcoming]
-              Completing Master's · AI-driven data ecosystems
-```
+> Becoming an **AI Architect** — completing my Master's in AI Engineering and pioneering AI-driven transformations in complex data ecosystems.
 
 <br/>
 
