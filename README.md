@@ -1,7 +1,8 @@
 # Hi there, I'm Abderrahim Elouardy 👋
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elouardyabderrahim/portfolio/main/github_banner.png" alt="Abderrahim Elouardy Banner" width="100%">
+ ![Uploading github_banner.jpg…]()
 </p>
 
 ### 🛠️ Languages & Tools
