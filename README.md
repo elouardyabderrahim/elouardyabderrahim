@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h3 align="center">Data & AI Engineer &nbsp;|&nbsp; Backend Architect &nbsp;|&nbsp; Technical Lead</h3>
+<h3 align="center">Data & AI Engineer &nbsp;|&nbsp; Backend Developer &nbsp;</h3>
 
 <br/>
 
@@ -51,7 +51,7 @@ I bridge the gap between **Big Data Engineering** and **Scalable Backend Systems
 | | |
 |---|---|
 | 🔭 **Current Focus** |  AI and Agents |
-| 🌱 **Learning Path** | Deepening expertise in **MLOps** and ** Cloud ** |
+| 🌱 **Learning Path** | Deepening expertise in **MLOps** and **Cloud** |
 | 👯 **Collaboration** | Looking to contribute to **DevOps** and **CI/CD** automation |
 | 🤝 **Seeking Help** | Expanding mastery of **Backend** and modern **Frontend** ecosystems |
 | 💬 **Ask Me About** | PySpark · Kafka · Data Warehousing · REST API Design |
