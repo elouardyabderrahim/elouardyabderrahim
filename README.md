@@ -50,10 +50,10 @@ I bridge the gap between **Big Data Engineering** and **Scalable Backend Systems
 
 | | |
 |---|---|
-| 🔭 **Current Focus** | Leading technical training programs and optimizing real-time data streams |
-| 🌱 **Learning Path** | Deepening expertise in **MLOps** and **Advanced Cloud Architecture** |
+| 🔭 **Current Focus** |  AI and Agents |
+| 🌱 **Learning Path** | Deepening expertise in **MLOps** and ** Cloud ** |
 | 👯 **Collaboration** | Looking to contribute to **DevOps** and **CI/CD** automation |
-| 🤝 **Seeking Help** | Expanding mastery of **Jenkins** and modern **Frontend** ecosystems |
+| 🤝 **Seeking Help** | Expanding mastery of **Backend** and modern **Frontend** ecosystems |
 | 💬 **Ask Me About** | PySpark · Kafka · Data Warehousing · REST API Design |
 | 🎯 **Goal** | Becoming an **AI Architect** |
 
@@ -336,7 +336,7 @@ I bridge the gap between **Big Data Engineering** and **Scalable Backend Systems
 
 ### 🎯 Goal
 
-> Completing my Master's in AI Engineering & Data Science and becoming an **AI Architect** — pioneering AI-driven transformations in complex data ecosystems.
+> Becoming an **AI Architect** — pioneering AI-driven transformations in complex data ecosystems.
 
 ---
 
